@@ -1,0 +1,2 @@
+# barang
+simple crud barang
